@@ -1,0 +1,81 @@
+2025-11-20 17:06:06,449 - INFO - WebDriver initialized successfully
+2025-11-20 17:06:06,453 - INFO - Initializing ExcelManager for excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx
+2025-11-20 17:06:06,467 - INFO - Created new workbook: excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx
+2025-11-20 17:06:06,471 - INFO - Created new sheet: Companies
+2025-11-20 17:06:06,474 - ERROR - Application error: [Errno 2] No such file or directory: 'excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx'
+Traceback (most recent call last):
+  File "/home/suraj/Documents/EmailOutReachLocal/main.py", line 272, in main
+    run_google_search(driver_mgr, user_input)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/main.py", line 121, in run_google_search
+    excel_mgr = ExcelManager(user_input['filename'])
+  File "/home/suraj/Documents/EmailOutReachLocal/excel_manager.py", line 52, in __init__
+    self._create_or_load_workbook()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/suraj/Documents/EmailOutReachLocal/excel_manager.py", line 101, in _create_or_load_workbook
+    self.wb.save(self.filename) # Save after ensuring sheet/headers exist
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/myenv/lib/python3.13/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/myenv/lib/python3.13/site-packages/openpyxl/writer/excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "/usr/lib/python3.13/zipfile/__init__.py", line 1367, in __init__
+    self.fp = io.open(file, filemode)
+              ~~~~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx'
+2025-11-20 17:06:06,629 - INFO - Browser closed successfully
+2025-11-20 17:06:37,949 - INFO - WebDriver initialized successfully
+2025-11-20 17:06:37,950 - INFO - Initializing ExcelManager for excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx
+2025-11-20 17:06:37,955 - INFO - Created new workbook: excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx
+2025-11-20 17:06:37,958 - INFO - Created new sheet: Companies
+2025-11-20 17:06:37,958 - ERROR - Application error: [Errno 2] No such file or directory: 'excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx'
+Traceback (most recent call last):
+  File "/home/suraj/Documents/EmailOutReachLocal/main.py", line 272, in main
+    run_google_search(driver_mgr, user_input)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/main.py", line 121, in run_google_search
+    excel_mgr = ExcelManager(user_input['filename'])
+  File "/home/suraj/Documents/EmailOutReachLocal/excel_manager.py", line 52, in __init__
+    self._create_or_load_workbook()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/suraj/Documents/EmailOutReachLocal/excel_manager.py", line 101, in _create_or_load_workbook
+    self.wb.save(self.filename) # Save after ensuring sheet/headers exist
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/myenv/lib/python3.13/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/myenv/lib/python3.13/site-packages/openpyxl/writer/excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "/usr/lib/python3.13/zipfile/__init__.py", line 1367, in __init__
+    self.fp = io.open(file, filemode)
+              ~~~~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx'
+2025-11-20 17:06:38,045 - INFO - Browser closed successfully
+2025-11-20 17:08:18,996 - INFO - WebDriver initialized successfully
+2025-11-20 17:08:18,998 - INFO - Initializing ExcelManager for excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx
+2025-11-20 17:08:19,003 - INFO - Created new workbook: excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx
+2025-11-20 17:08:19,005 - INFO - Created new sheet: Companies
+2025-11-20 17:08:19,006 - ERROR - Application error: [Errno 2] No such file or directory: 'excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx'
+Traceback (most recent call last):
+  File "/home/suraj/Documents/EmailOutReachLocal/main.py", line 288, in main
+    run_google_search(driver_mgr, user_input)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/main.py", line 120, in run_google_search
+    excel_mgr = ExcelManager(user_input['filename'])
+  File "/home/suraj/Documents/EmailOutReachLocal/excel_manager.py", line 52, in __init__
+    self._create_or_load_workbook()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/suraj/Documents/EmailOutReachLocal/excel_manager.py", line 101, in _create_or_load_workbook
+    self.wb.save(self.filename) # Save after ensuring sheet/headers exist
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/myenv/lib/python3.13/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/suraj/Documents/EmailOutReachLocal/myenv/lib/python3.13/site-packages/openpyxl/writer/excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "/usr/lib/python3.13/zipfile/__init__.py", line 1367, in __init__
+    self.fp = io.open(file, filemode)
+              ~~~~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'excel_files/scraped_data/website-development__meta=eyJidXNpbmVzcyI6ICJ3ZWJzaXRlIGRldmVsb3BtZW50IiwgImNpdGllcyI6IFsiQm9pc2UgSWRhaG8iXX0=.xlsx'
+2025-11-20 17:08:19,093 - INFO - Browser closed successfully
