@@ -51372,3 +51372,42 @@ Please retry in 23.659937938s. [links {
 2025-12-26 15:37:00,209 - INFO - Inserted new data: Seattle Tech Consulting - Seattle
 2025-12-26 15:37:00,235 - INFO - No more pages to scrape
 2025-12-26 15:42:02,439 - INFO - Browser closed successfully
+2025-12-26 15:57:55,069 - INFO - WebDriver initialized successfully
+2025-12-26 15:57:55,070 - INFO - Initializing ExcelManager for excel_files/it-outsourcing-services__meta=eyJidXNpbmVzcyI6ICJJVCBPdXRzb3VyY2luZyBTZXJ2aWNlcyIsICJjaXRpZXMiOiBbIkJvdWxkZXIiLCAiRXVnZW5lIiwgIlNhbnRhIENydXoiLCAiSXJ2aW5lIl19.xlsx
+2025-12-26 15:57:55,102 - INFO - Loaded existing workbook: excel_files/it-outsourcing-services__meta=eyJidXNpbmVzcyI6ICJJVCBPdXRzb3VyY2luZyBTZXJ2aWNlcyIsICJjaXRpZXMiOiBbIkJvdWxkZXIiLCAiRXVnZW5lIiwgIlNhbnRhIENydXoiLCAiSXJ2aW5lIl19.xlsx
+2025-12-26 15:58:01,622 - INFO - No more pages to scrape
+2025-12-26 15:58:06,044 - INFO - Inserted new data: Kelley Create - Eugene
+2025-12-26 15:58:06,672 - INFO - Inserted new data: IP Services - Eugene
+2025-12-26 15:58:06,922 - INFO - Inserted new data: IT Staffing Outsourcing Company SEO Offshore Solutions - Eugene
+2025-12-26 15:58:06,952 - INFO - No more pages to scrape
+2025-12-26 15:58:11,332 - INFO - Inserted new data: USWired: IT Support & IT Services in San Jose & San Francisco Bay Area - Santa Cruz
+2025-12-26 15:58:11,591 - INFO - Inserted new data: Baker Tilly - Santa Cruz
+2025-12-26 15:58:11,946 - INFO - Inserted new data: ManpowerGroup Services India Pvt Ltd. | IT Outsourcing Services in Kolkata - Santa Cruz
+2025-12-26 15:58:12,002 - INFO - No more pages to scrape
+2025-12-26 15:58:16,617 - INFO - Inserted new data: California Computer Options - Irvine Managed IT Services Company - Irvine
+2025-12-26 15:58:16,993 - INFO - Inserted new data: Ito Solutions Managed IT Services - Irvine - Irvine
+2025-12-26 15:58:17,316 - INFO - Inserted new data: Technijian - Irvine
+2025-12-26 15:58:17,579 - INFO - Inserted new data: California Computer Options - Irvine Managed IT Services Company - Irvine
+2025-12-26 15:58:18,237 - INFO - Inserted new data: KDIT - Managed IT Services Orange County - Irvine
+2025-12-26 15:58:18,590 - INFO - Inserted new data: Techifornia IT Services LLC - Irvine
+2025-12-26 15:58:18,676 - WARNING - No website found for Apex Outsourcing Inc
+2025-12-26 15:58:19,243 - INFO - Inserted new data: ITSOPRO LLC - Irvine
+2025-12-26 15:58:19,966 - INFO - Inserted new data: Next IT Solutions - Irvine
+2025-12-26 15:58:20,644 - INFO - Inserted new data: LAN WAN Enterprise - IT Services In Orange County & Irvine - Irvine
+2025-12-26 15:58:20,965 - INFO - Inserted new data: Emplicity - Irvine
+2025-12-26 15:58:21,299 - INFO - Inserted new data: KaufmanIT, Inc. | Managed IT Support & Cybersecurity - Irvine
+2025-12-26 15:58:22,233 - INFO - Inserted new data: OutSourced IT Solutions - Irvine
+2025-12-26 15:58:22,264 - INFO - No more pages to scrape
+2025-12-26 15:58:22,285 - INFO - Initializing ExcelManager for excel_files/it-outsourcing-services__meta=eyJidXNpbmVzcyI6ICJJVCBPdXRzb3VyY2luZyBTZXJ2aWNlcyIsICJjaXRpZXMiOiBbIkJvdWxkZXIiLCAiRXVnZW5lIiwgIlNhbnRhIENydXoiLCAiSXJ2aW5lIl19.xlsx
+2025-12-26 15:58:22,308 - INFO - Loaded existing workbook: excel_files/it-outsourcing-services__meta=eyJidXNpbmVzcyI6ICJJVCBPdXRzb3VyY2luZyBTZXJ2aWNlcyIsICJjaXRpZXMiOiBbIkJvdWxkZXIiLCAiRXVnZW5lIiwgIlNhbnRhIENydXoiLCAiSXJ2aW5lIl19.xlsx
+2025-12-26 15:58:22,329 - INFO - Initialized OutreachManager (Lightweight Mode).
+2025-12-26 15:59:20,748 - INFO - Deleted row 15 - no email found for https://ipservices.com/services/managed-it-services/ in Eugene
+2025-12-26 15:59:59,983 - INFO - Deleted row 15 - no email found for https://www.staffingoffshoresolutions.com/index.php?pr=Contact_Us in Eugene
+2025-12-26 16:00:36,379 - INFO - Deleted row 16 - no email found for https://www.google.com/aclk?sa=L&ai=DChsSEwishbXLhduRAxXbDYMDHcOzM6cYACICCAEQABoCc2Y&co=1&gclid=EAIaIQobChMIrIW1y4XbkQMV2w2DAx3DszOnEBAYAiAAEgILtPD_BwE&cid=CAAS0gHkaNwTwt4KEF-a9I_Xa9PGhKRi_YGrKFjn-tKfgJza3PiZ41YTPtZVU14kLTM4i19Ey7TaKJuX7Aw9zsYfsQqNFUbw5JvOpJRUiwWgz-fa-S1HL1BhKlru9xt64OKiaAq03Xn2anmTdfDgkcMfJ-qP_fAu7wE5PUQxRZ5qsjaFNmJv8240y6OugvjFlVIRu8xRF8ZY_Ce7kvAM_Y0EKYu1CKbezELlwt70TvNmM-4P3VEfwmmwHBK7o82mi9Do_6Vq8PRzRB5yG8BSM49CCTYmn6s&cce=2&sig=AOD64_0ECMPTFrwbCi1cKXBdS2a7lfEJJA&q=&ctype=99&ved=2ahUKEwjX86_LhduRAxUlyzgGHbSkFKwQhKwBegQIIxAg&adurl= in Santa Cruz
+2025-12-26 16:01:03,089 - INFO - Generating professional HTML email for ManpowerGroup Services India Pvt Ltd. | IT Outsourcing Services in Kolkata
+2025-12-26 16:01:06,160 - INFO - Generated email HTML: generated_email/outreach_ManpowerGroup Services India Pvt Ltd  IT Outsourcing Services in Kolkata_enquiry.html
+2025-12-26 16:01:08,963 - ERROR - CLI Stderr: 
+2025-12-26 16:01:46,890 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd46399f9d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0047d3bcd7d7444b0af5193b860dfe95
+2025-12-26 16:01:46,893 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd46399e490>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0047d3bcd7d7444b0af5193b860dfe95
+2025-12-26 16:01:46,895 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd4636c0c30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0047d3bcd7d7444b0af5193b860dfe95
+2025-12-26 16:01:46,898 - INFO - Browser closed successfully
